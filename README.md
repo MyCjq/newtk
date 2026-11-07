@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/newtk.svg)](https://badge.fury.io/py/newtk)
+[![Downloads](https://pepy.tech/badge/newtk)](https://pepy.tech/project/newtk)
 ```
 # newtk
 NewTk is a modern, lightweight GUI enhancement library for Python's built-in tkinter. It brings smooth animations, modern rounded widgets and interactive hover effects to your desktop applications with just a few lines of code.
