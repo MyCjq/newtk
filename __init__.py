@@ -1,8 +1,9 @@
-
-
-__version__ = "0.2.0"
+__version__ = "0.3.0"
 __author__ = "cjq"
 
-from .newtk import Widget,NewButton,NewEntry
+from .widget import Widget
+from .circlebutton import CircleButton
+from .newbutton import NewButton
+from .newlabel import NewLabel
 
-__all__ = ["Widget", "NewButton","NewEntry"]
+__all__ = ["CircleButton","NewButton","NewLabel"]
